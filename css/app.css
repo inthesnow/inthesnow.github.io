@@ -1,0 +1,52 @@
+/* 페이스북 디자인 
+@media(max-width:767px) {
+    .web {display: none;}
+    .app {display: unset;}
+}
+
+.section-app {
+    border-left: 1px solid #d2d2d2;
+    border-right: 1px solid #d2d2d2;
+}
+.section-app > .fileDiv {
+    display: none;
+}
+
+.profile-inner {position: relative; margin: 20px;}
+.profile-inner > .profile {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.profile-inner > .profile-name {
+    padding-left: 50px;
+}
+.profile-inner > .profile-name > p {
+    margin-bottom: 0px;
+}
+.content-inner > p {
+    padding: 10px 0;
+    margin: 0px;
+}
+.image-inner > img {
+    width: 100%;
+}
+.like-inner a {
+    text-decoration: none;coler:#333; font-size: 5px;;  
+}
+.like-inner > a > span {
+    vertical-align: middle;
+} 
+.button-inner {overflow: hidden;}
+.button-inner  >a {
+    float: left;
+    width: 33.3333%;
+    text-align: center;
+    color:#333;
+    text-decoration: none;
+    padding: 10px 0;
+}
+.button-inner i {
+    margin-right: 5px;
+}
+*/
